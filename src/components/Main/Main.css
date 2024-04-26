@@ -1,0 +1,43 @@
+
+.inp{
+    background-color: #bcb8b1;
+    border: 2px solid;
+    padding: 1%;
+    border-radius: 10px 10px;
+    height: 40px;
+    width: 375px;
+    margin: 5%;
+}
+
+.inp button{
+    border: 1px solid transparent;
+    border-radius: 10px 10px;
+    margin-left: 2%;
+    background-color: #788bff;
+    height: 25px;
+    width: 40px;
+
+}
+
+.map{
+    border: 2px solid;
+    width: 383px;
+    background: #f1dca7;
+    margin: 5%;
+    margin-top: 2%;
+}
+
+.inp button:hover{
+    background-color: white;
+    cursor: pointer;
+}
+
+input[type = text]{
+    background-color: #bcb8b1;
+    border:none;
+    border-bottom: 2px solid;
+    font-size: large;
+    outline: none;
+    width: 300px;
+    height: 30px;
+}

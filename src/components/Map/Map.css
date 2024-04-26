@@ -1,0 +1,28 @@
+
+.map-class{
+    width: 279px;
+}
+
+li{
+    font-size: large ;
+}
+
+button{
+    outline: none;
+    border: none;
+    background-color: #f1dca7;
+}
+.button1{
+    position: relative;
+    margin: 0%;
+    padding: 4px;
+    left: 283px;
+    top: -24px;
+    font-size: smaller;
+    overflow: hidden;
+}
+
+button:hover{
+    cursor: pointer;
+    background: white;
+}
